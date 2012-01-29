@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.version     = "0.0.1"
   s.authors     = ["Stas Ladonenko"]
   s.email       = ["stas.ladonenko@gmail.com"]
-  s.homepage    = ""
+  s.homepage    = "https://github.com/stasl/setup_recipes"
   s.summary     = %q{Capistrano task for initial project/server setup}
   s.description = %q{A bunch of useful recipes to speed up initial server setup}
 
